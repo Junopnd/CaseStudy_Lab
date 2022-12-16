@@ -105,6 +105,10 @@ public class App extends JFrame {
                             
                         }
               
+                    }else if(string.length == 2){          
+                        
+                        result = "Semantically Correct!";
+                        
                     }else {                      
                         
                         result = "Semantically Incorrect!";
